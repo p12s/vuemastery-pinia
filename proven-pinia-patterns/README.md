@@ -1,5 +1,6 @@
 # Course resourse 
-https://www.vuemastery.com/courses/proven-pinia-patterns/pinia-patterns-intro/
+Course: https://www.vuemastery.com/courses/proven-pinia-patterns/pinia-patterns-intro/  
+Repo: https://github.com/SandraRodgers/pinia-restaurants  
 
 # How run service
 ```
